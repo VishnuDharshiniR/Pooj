@@ -1,6 +1,6 @@
 body {
     font-family: 'Arial', sans-serif;
-    background: #f0f0f0;
+    background: #e0f2f1; /* Teal background */
     display: flex;
     justify-content: center;
     align-items: center;
@@ -32,7 +32,7 @@ h1 {
     display: block;
     padding: 15px;
     margin: 10px;
-    background: #007BFF;
+    background: #36827F; /* Teal button */
     color: #fff;
     text-decoration: none;
     border-radius: 5px;
@@ -40,5 +40,5 @@ h1 {
 }
 
 .option:hover {
-    background: #0056b3;
+    background: #004d40; /* Darker teal on hover */
 }
